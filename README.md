@@ -1,0 +1,2 @@
+# skripsi-django
+my project
